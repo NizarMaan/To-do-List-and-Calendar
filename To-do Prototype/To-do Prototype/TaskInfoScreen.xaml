@@ -1,0 +1,95 @@
+﻿<UserControl x:Class="To_do_Prototype.TaskInfoScreen"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="480" d:DesignWidth="282" Background="#FFCBF3F0">
+    <Grid Name="Display" MaxWidth="282" MaxHeight="480">
+
+        <StackPanel>
+            <Label x:Name="lblHeader" Content="Task Header" FontSize="24" Margin="10" Height="40"/>
+            <ScrollViewer Height="340" Margin="10" Width="262" >
+                <StackPanel x:Name="InfoSection" Background="White" >
+                    <TextBox x:Name="txtTitle" Text="Enter Title" Margin="10" PreviewMouseDown="txtTitle_PreviewMouseDown"/>
+                    <TextBox x:Name="txtDescription" Text="Task description" Height="100" Margin="10" PreviewMouseDown="txtDescription_PreviewMouseDown"/>
+                    <Canvas x:Name="canDueDate" Height="40" Margin="10">
+                        <Label x:Name="lblDueDate" Content="Due Date:" Canvas.Top="-2"/>
+                        <TextBox x:Name="txtDueDate" Text="01/01/2010" Height="20" Width="100" Canvas.Left="67"/>
+                        <Button x:Name="btnDueCalendar" Height="20" Width="20" Canvas.Left="172" Click="btnDueCalendar_Click">
+                            <Button.Background>
+                                <ImageBrush ImageSource="Images/calendar-128.png"/>
+                            </Button.Background>
+                        </Button>
+                        <Label x:Name="lblDueTime" Content="At:" Canvas.Left="38" Canvas.Top="22"/>
+                        <TextBox x:Name="txtDueTime" Text="08:00"  Height="20" Width="100" Canvas.Left="67" Canvas.Top="24"/>
+                        <Button x:Name="btnDueTime"  Height="20" Width="20" Canvas.Left="172" Canvas.Top="24">
+                            <Button.Background>
+                                <ImageBrush ImageSource="Images/clock-icon.png"/>
+                            </Button.Background>
+                        </Button>
+                        <Calendar x:Name="calDueDate" Canvas.Left="38" Canvas.Top="49" Visibility="Hidden" SelectedDatesChanged="calDueDate_SelectedDatesChanged" />
+                    </Canvas>
+                    <Canvas Height="30" Margin="10">
+                        <Label Content="Category:"/>
+                        <ComboBox x:Name="cmbCategory" Width="150" Canvas.Left="66" Canvas.Top="4" SelectedIndex="0">                            
+                            <ComboBoxItem Content="Personal"/>
+                            <ComboBoxItem Content="CPSC101"/>
+                            <ComboBoxItem Content="CPSC481"/>
+                        </ComboBox>
+                    </Canvas>
+                    <Canvas Height="30" Margin="10">
+                        <Label Content="Priority:"/>
+                        <ComboBox x:Name="cmbPriority" Width="150" Canvas.Left="66" Canvas.Top="4" SelectedIndex="2">
+                            <ComboBoxItem Content="High"/>
+                            <ComboBoxItem Content="Medium"/>
+                            <ComboBoxItem Content="Low"/>
+                        </ComboBox>
+                    </Canvas>
+                    <Canvas x:Name="remindersCanvas" Height="200" Margin="10" RenderTransformOrigin="0.664,-0.01">
+                        <Label x:Name="lblReminder" Content="Set Reminder" Canvas.Left="10"/>
+                        <CheckBox Canvas.Left="96" Canvas.Top="8" Checked="CheckBox_Checked" Unchecked="CheckBox_Unchecked"/>
+                        <Canvas Height="134" Canvas.Left="10" Canvas.Top="26" Width="187" x:Name="Reminders" IsEnabled="False">
+                            <Label x:Name="lblReminderDate" Content="Date:"/>
+                            <TextBox x:Name="txtReminderDate" Text="01/01/2010" Height="20" Width="100" Canvas.Left="42"/>
+                            <Button x:Name="btnCalendar" Height="20" Width="20" Canvas.Left="147" Click="btnCalendar_Click">
+                                <Button.Background>
+                                    <ImageBrush ImageSource="Images/calendar-128.png"/>
+                                </Button.Background>
+                            </Button>
+                            <Label x:Name="lblReminderTime" Content="At:" Canvas.Top="19" Canvas.Left="13"/>
+                            <TextBox x:Name="txtReminderTime" Text="08:00"  Height="20" Width="100" Canvas.Left="42" Canvas.Top="25"/>
+                            <Calendar SelectedDatesChanged="reminderCalendarPopUp_SelectedDatesChanged" Visibility="Hidden" x:Name ="reminderCalendarPopUp" Canvas.Left="13" Canvas.Top="47" RenderTransformOrigin="0.525,-0.018" Height="172" Width="199"/>
+                            <Button x:Name="btnReminderTime"  Height="20" Width="20" Canvas.Left="147" Canvas.Top="25">
+                                <Button.Background>
+                                    <ImageBrush ImageSource="Images/clock-icon.png"/>
+                                </Button.Background>
+                            </Button>
+                            <Label x:Name="lblReoccurence" Content="Set Reoccurrnce" Canvas.Top="50"/>
+                            <ComboBox x:Name="cmbReoccurence" Canvas.Top="81" Width="154" SelectedIndex="0">
+                                <ComboBoxItem Content="Once"/>
+                                <ComboBoxItem Content="Daily"/>
+                                <ComboBoxItem Content="Weekly"/>
+                                <ComboBoxItem Content="Bi-Weekly"/>
+                            </ComboBox>
+                            <Label x:Name="lblEndDate" Content="Ends On:" Canvas.Top="108"/>
+                            <TextBox x:Name="txtEndDay" Text="08:00"  Height="20" Width="100" Canvas.Left="62" Canvas.Top="110"/>
+                            <Button x:Name="btnEndDay"  Height="20" Width="20" Canvas.Left="167" Canvas.Top="110"/>
+                        </Canvas>
+                    </Canvas>
+                </StackPanel>
+            </ScrollViewer>
+            <Grid Height="50">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition Width="5*"/>
+                    <ColumnDefinition Width="19*"/>
+                    <ColumnDefinition Width="5*"/>
+                </Grid.ColumnDefinitions>
+                <Image x:Name ="imgOk" Source="Images/Ok.png" MouseDown="CreateTask" Grid.Column="0" Height="40" Width="40"/>
+                <Image x:Name="imgCancel" Source="Images/Cancel.png" Grid.Column="2" MouseDown="imgCancel_MouseDown"  Height="40" Width="40"/>
+            </Grid>
+        </StackPanel>
+        <Image x:Name="imgDelete" Source="Images/delete-icon.png" Margin="242,10,10,420" Visibility="Hidden" MouseDown="imgDelete_MouseDown"/>
+        <Image x:Name="imgEdit" Source="Images/edit-icon.png" RenderTransformOrigin="8.6,12.8" Margin="181,10,68,420" Visibility="Hidden" MouseDown="imgEdit_MouseDown"/>
+    </Grid>
+</UserControl>

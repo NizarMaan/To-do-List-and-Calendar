@@ -1,0 +1,23 @@
+﻿<UserControl x:Class="To_do_Prototype.ToDoTask"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="50" d:DesignWidth="380">
+    <Grid Name="grdTask" Margin="2" Background="#FFCBF3F0">
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="61"/>
+            <ColumnDefinition/>
+        </Grid.ColumnDefinitions>
+        <!--
+        <Label Name="lblCompleted" Content="Complete"  Grid.ColumnSpan="2" FontSize="10" ></Label>
+        -->
+        <Label Name="lblTaskTitle" Content="Task Title" FontSize="15" Margin="10,0,10,20" Grid.Column="1" MouseDown="lblTaskTitle_MouseDown"/>
+        <Label Name="lblDueDate" Content="Due: Month Day" FontSize="9" HorizontalAlignment="Right" Grid.Column="1" Margin="0,26,10,0"></Label>
+        <Label Name="lblStrikeOutLine"  FontSize="20"  Margin="10,-13,10,24" Grid.Column="1" Content="_________________________________________________________________" Visibility="Hidden"></Label>
+        <CheckBox x:Name="ckbCheckbox" HorizontalAlignment="Center" VerticalAlignment="Center" Height="16" Width="16" Checked="ckbCheckbox_Checked" Unchecked="ckbCheckbox_Unchecked"/>
+
+
+    </Grid>
+</UserControl>

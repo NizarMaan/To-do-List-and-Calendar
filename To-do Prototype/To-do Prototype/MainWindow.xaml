@@ -1,0 +1,13 @@
+﻿<Window x:Class="To_do_Prototype.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MainWindow" Height="600" Width="380">
+    <Window.Background>
+        <ImageBrush ImageSource="Images/nexus6.png"/>
+    </Window.Background>
+    <Grid>
+        <StackPanel Name="Display" Margin="45" Background="White">
+           
+        </StackPanel>
+    </Grid>
+</Window>

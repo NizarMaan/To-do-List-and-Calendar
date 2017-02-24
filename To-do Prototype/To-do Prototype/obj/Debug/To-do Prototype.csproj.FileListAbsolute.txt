@@ -1,0 +1,220 @@
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe.config
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.pdb
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csprojResolveAssemblyReference.cache
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.baml
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.baml
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.g.cs
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.g.cs
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\App.g.cs
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype_MarkupCompile.cache
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.g.resources
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\To_do_Prototype.Properties.Resources.resources
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csproj.GenerateResource.Cache
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.exe
+C:\Users\lleun\Documents\CPSC 481\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.pdb
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe.config
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.exe
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.pdb
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csprojResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.g.resources
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To_do_Prototype.Properties.Resources.resources
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.pdb
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.g.cs
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe.config
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.exe
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.pdb
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.pdb
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csprojResolveAssemblyReference.cache
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.baml
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.baml
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.baml
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.baml
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.g.cs
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.g.cs
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.g.cs
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.g.cs
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\App.g.cs
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype_MarkupCompile.cache
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.g.resources
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To_do_Prototype.Properties.Resources.resources
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.g.cs
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.baml
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.baml
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.g.cs
+D:\School\CPSC 481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.g.cs
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe.config
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.exe
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.pdb
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.pdb
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.baml
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.baml
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.baml
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.baml
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.baml
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.baml
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.g.cs
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.g.cs
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.g.cs
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.g.cs
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.g.cs
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.g.cs
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\App.g.cs
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype_MarkupCompile.cache
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.g.resources
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To_do_Prototype.Properties.Resources.resources
+C:\Users\Nizar\Desktop\University\Year 4\Year 4 Sem II\CPSC481\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe.config
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.exe
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.pdb
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.pdb
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csprojResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.g.resources
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To_do_Prototype.Properties.Resources.resources
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ReportsScreen.baml
+\\cs-fs01\Profiles\ug\maann\Desktop\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ReportsScreen.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe.config
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.exe
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.pdb
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ReportsScreen.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ReportsScreen.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\App.g.cs
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype_MarkupCompile.cache
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.g.resources
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To_do_Prototype.Properties.Resources.resources
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csproj.GenerateResource.Cache
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.pdb
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csprojResolveAssemblyReference.cache
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CategoryReport.baml
+\\cs-fs01\Profiles\ug\lleun\Desktop\cpsc481-winter-2016\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CategoryReport.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe.config
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.exe
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.pdb
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.pdb
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csprojResolveAssemblyReference.cache
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CategoryReport.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ReportsScreen.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.baml
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CategoryReport.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ReportsScreen.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\App.g.cs
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype_MarkupCompile.cache
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.g.resources
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To_do_Prototype.Properties.Resources.resources
+D:\School\CPSC 481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csproj.GenerateResource.Cache
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe.config
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.exe
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.pdb
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.exe
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\bin\Debug\To-do Prototype.pdb
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csprojResolveAssemblyReference.cache
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CategoryReport.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ReportsScreen.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.baml
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\AgendaView.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CalendarView.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\CategoryReport.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\HomeScreen.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\MainWindow.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ReportsScreen.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskComplete.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\TaskInfoScreen.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\ToDoTask.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyTaskInsert.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\WeeklyView.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\App.g.cs
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype_MarkupCompile.cache
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.g.resources
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To_do_Prototype.Properties.Resources.resources
+C:\Users\Nizar Maan\Desktop\CPSC481\vertical-prototype\To-do Prototype\To-do Prototype\obj\Debug\To-do Prototype.csproj.GenerateResource.Cache
